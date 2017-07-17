@@ -32,6 +32,8 @@ Get node.js https://nodejs.org/en/ the lastest verison, and Install then Restart
 
 Download & unzip TwitchBot-GitHub-Release.zip to you're Desktop, and then watch a Youtube video on how to open JavaScript programs with Node.JS.
 
+THEN FILL ALL DETAILS IN CONFIG.JS AND OAUTH.JS. Also read information.
+
 Enjoy!
 
 
