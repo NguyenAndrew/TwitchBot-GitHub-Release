@@ -84,7 +84,7 @@ client.on("chat", (channel, user, message, self) => {
 
     //Dislays commands
     if(message == configFile.prefix + "commands") {
-        client.say(configFile.channelName, "current prefix is " + configFile.prefix + " and our list of command are [discord, rip, satly, twitter, ping,]")
+        client.say(configFile.channelName, "current prefix is " + configFile.prefix + " and our list of command are [discord, twitter, ping,]")
     }
 
     //Displays twitter
